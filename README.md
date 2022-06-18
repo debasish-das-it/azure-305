@@ -23,3 +23,6 @@
 ## Labs Networking
 1. https://microsoftlearning.github.io/AZ-303-Microsoft-Azure-Architect-Technologies/
 2. https://docs.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal
+
+# Backup Lab
+1. https://docs.microsoft.com/en-in/azure/backup/quick-backup-vm-portal
